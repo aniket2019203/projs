@@ -25,7 +25,7 @@ function countdown() {
 }
 
 function format(time) {
-    return time<10?'0$(time)':time;
+    return time<10?'0${time}':time;
 }
 
 countdown();
