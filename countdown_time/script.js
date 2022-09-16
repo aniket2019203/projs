@@ -5,7 +5,7 @@ const secondsE1=document.getElementById("seconds");
 
 
 
-const DOB = "9 August 2022"
+const DOB = "9 August 2023"
 
 function countdown() {
     const DOBirth = new Date(DOB);
